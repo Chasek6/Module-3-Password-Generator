@@ -18,7 +18,8 @@ The goal of creating a Random Password Generator was to learn and apply Javascri
 I was successfully able to deploy a Random Password Generator webpage that would take 128 characters & generate a random password based off: how many characters the user wants and rather or not the user wants uppercase or lowercase letter as well as special characters and numbers.
 
 ![PG1](./assests/images/PG1.png)
-![PG2](assests/images/PG2.png)
+![PG2](assests/image<img width="1561" alt="Screen Shot 2022-09-28 at 11 13 35 PM" src="https://user-images.githubusercontent.com/108581086/192930553-cf14cd5f-4bee-4aa4-9de1-0a23750fb7d8.png">
+s/PG2.png)
 
 
 Credits 
